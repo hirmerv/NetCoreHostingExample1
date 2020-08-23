@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TestA": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "GRDP__KEYA": "ValueA",
+        "GRDP__KEYB": "125"
+      }
+    }
+  }
+}
